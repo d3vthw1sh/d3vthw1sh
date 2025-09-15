@@ -6,6 +6,6 @@ I'm a student and an aspiring web developer from Cambodia. I've worked on a few 
 
 ## 🛠 Tech Stack
 
-- **Frontend**: React, Redux, Chakra UI
+- **Frontend**: React, Redux, Chakra, motion-primitives, Tailwind
 - **Backend**: Node.js, Express, MongoDB
 - **Others**: Laravel (basic CRUD), Git
