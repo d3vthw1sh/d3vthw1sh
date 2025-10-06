@@ -1,32 +1,11 @@
-# 🌙 Suji (Vichet Sopheaktra)
+# 👋 Hi, I'm Vichet Sopheaktra
 
-Student & web developer from Cambodia.  
-I like building small full-stack projects and learning how every layer connects — from database to UI.  
-Still figuring things out, but I enjoy seeing ideas come to life through code.
+I'm a student and an aspiring web developer from Cambodia. I've worked on a few full-stack projects using the **MERN stack** with **Redux**, and have some experience building basic **CRUD apps with Laravel**. I'm still learning and improving my skills step by step.
 
 ---
 
-## ⚙️ Tech Stack
+## 🛠 Tech Stack
 
-**Frontend**  
-🧩 React · ⚡ Redux · 💠 Chakra UI · 🎨 Tailwind · 🎞 motion-primitives  
-
-**Backend**  
-🖥️ Node.js · 🚀 Express · 🍃 MongoDB  
-
-**Others**  
-🧱 Laravel (basic CRUD) · 🪞 Git  
-
----
-
-## 🧭 Focus
-Getting better at backend structure, cleaner API design, and smoother frontend flow.
-
----
-
-## 🎧 Also making music as [**suji**](https://sujilament.netlify.app)
-soft, dreamy, and a little melancholic — like code at 2 a.m.
-
----
-
-✨ *still learning, still building.*
+- **Frontend**: React, Redux, Chakra, motion-primitives, Tailwind
+- **Backend**: Node.js, Express, MongoDB
+- **Others**: Laravel (basic CRUD), Git
