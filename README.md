@@ -9,3 +9,6 @@ I'm a student and an aspiring web developer from Cambodia. I've worked on a few 
 - **Frontend**: React, Redux, Chakra, motion-primitives, Tailwind
 - **Backend**: Node.js, Express, MongoDB
 - **Others**: Laravel (basic CRUD), Git
+
+## 🎧 Music  
+When I’m not coding, I make music as [**suji**](https://sujilament.netlify.app) 
