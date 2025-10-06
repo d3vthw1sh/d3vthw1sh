@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Vichet Sopheaktra
+# 🌱 Hi, I'm Vichet Sopheaktra
 
 I'm a student and an aspiring web developer from Cambodia. I've worked on a few full-stack projects using the **MERN stack** with **Redux**, and have some experience building basic **CRUD apps with Laravel**. I'm still learning and improving my skills step by step.
 
