@@ -1,4 +1,4 @@
-# 🌱 Hi
+# 🌱(ò_óˇ)
 
 I'm still learning and improving my skills step by step.
 
