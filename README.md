@@ -9,7 +9,7 @@ I'm still learning and improving my skills step by step.
 ## 🛠 Tech Stack
 
 - **Frontend**: React, Redux, flutter.
-- **Backend**: Node.js, Express, MongoDB.  
+- **Backend**: Node.js, Express, MongoDB. FastAPI
 - **Others**: Laravel, Git.  
 
 ## 🎧 Music  
